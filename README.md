@@ -1,4 +1,4 @@
-### GitHub Activity
+### GitHub Activity
 
 Draw text on your contribution calendar.
 
